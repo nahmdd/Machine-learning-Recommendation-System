@@ -1,0 +1,501 @@
+ticket_id,date_reported,issue_type,product,severity,customer_id,resolution_time_hours,resolved,recommended_solution
+TKT1000,2023-04-17,Performance Issues,Cloud Analytics,4,CUST171,61,True,Cache Manager
+TKT1001,2023-03-29,Software Bug,Data Manager,5,CUST472,24,True,Bug Fix Patch v2.1
+TKT1002,2023-07-11,Compatibility Issue,Mobile App,3,CUST376,33,True,Version Manager
+TKT1003,2023-02-28,Software Bug,Software Suite Pro,3,CUST269,60,True,System Diagnostics Tool
+TKT1004,2023-12-30,Software Bug,Cloud Analytics,5,CUST154,64,True,Bug Fix Patch v2.1
+TKT1005,2023-06-16,Authentication Error,Software Suite Pro,3,CUST373,4,False,Security Patch
+TKT1006,2023-02-22,Data Sync Problem,Cloud Analytics,4,CUST485,60,True,Sync Engine Patch
+TKT1007,2023-03-22,Data Sync Problem,Mobile App,4,CUST149,4,True,Data Reconciliation Tool
+TKT1008,2023-07-10,Software Bug,API Gateway,4,CUST317,44,False,System Diagnostics Tool
+TKT1009,2023-09-28,Installation Error,Software Suite Pro,3,CUST314,62,True,Installation Guide
+TKT1010,2023-10-07,Authentication Error,API Gateway,3,CUST316,60,True,Identity Manager
+TKT1011,2023-12-11,Performance Issues,Cloud Analytics,2,CUST426,9,True,Resource Monitor
+TKT1012,2023-03-22,Performance Issues,API Gateway,4,CUST491,35,True,Load Balancer Pro
+TKT1013,2023-02-10,Software Bug,Data Manager,4,CUST127,7,False,System Diagnostics Tool
+TKT1014,2023-03-03,Software Bug,Data Manager,5,CUST315,37,True,System Diagnostics Tool
+TKT1015,2023-04-11,Installation Error,Software Suite Pro,2,CUST230,1,True,System Checker
+TKT1016,2023-07-26,Data Sync Problem,Mobile App,5,CUST114,42,True,Cloud Connector
+TKT1017,2023-02-21,Software Bug,Data Manager,3,CUST195,4,False,Core Engine Update
+TKT1018,2023-01-29,Authentication Error,API Gateway,3,CUST135,13,True,OAuth Handler
+TKT1019,2023-02-14,Authentication Error,Cloud Analytics,4,CUST161,57,True,Two-Factor Module
+TKT1020,2023-11-27,Data Sync Problem,Data Manager,4,CUST227,62,True,Sync Engine Patch
+TKT1021,2023-08-21,Authentication Error,Software Suite Pro,4,CUST358,70,True,Identity Manager
+TKT1022,2023-08-22,Connectivity Issues,API Gateway,4,CUST271,24,False,VPN Manager
+TKT1023,2023-06-29,Software Bug,API Gateway,3,CUST212,62,False,System Diagnostics Tool
+TKT1024,2023-04-11,Authentication Error,API Gateway,3,CUST212,56,True,Identity Manager
+TKT1025,2023-08-12,Compatibility Issue,Mobile App,4,CUST324,1,True,Version Manager
+TKT1026,2023-09-04,Connectivity Issues,Cloud Analytics,3,CUST423,55,True,Connection Optimizer
+TKT1027,2023-04-08,Software Bug,Cloud Analytics,3,CUST297,11,True,Bug Fix Patch v2.1
+TKT1028,2023-12-15,Software Bug,Data Manager,4,CUST358,20,True,Core Engine Update
+TKT1029,2023-05-28,Authentication Error,API Gateway,3,CUST451,71,True,Identity Manager
+TKT1030,2023-12-26,Performance Issues,API Gateway,3,CUST228,11,True,Performance Optimizer
+TKT1031,2023-10-25,Software Bug,Data Manager,4,CUST198,7,True,System Diagnostics Tool
+TKT1032,2023-10-31,Compatibility Issue,Software Suite Pro,3,CUST353,12,True,Legacy Support
+TKT1033,2023-04-09,Authentication Error,Software Suite Pro,3,CUST246,48,True,Two-Factor Module
+TKT1034,2023-04-26,Installation Error,Mobile App,2,CUST174,36,False,Installation Guide
+TKT1035,2023-04-09,Connectivity Issues,Cloud Analytics,2,CUST252,18,True,VPN Manager
+TKT1036,2023-06-18,Connectivity Issues,Mobile App,2,CUST260,68,True,Network Diagnostics
+TKT1037,2023-07-14,Software Bug,API Gateway,5,CUST227,33,True,Core Engine Update
+TKT1038,2023-08-26,Performance Issues,API Gateway,3,CUST257,38,False,Load Balancer Pro
+TKT1039,2023-08-14,Installation Error,Software Suite Pro,2,CUST376,30,True,System Checker
+TKT1040,2023-10-31,Connectivity Issues,API Gateway,2,CUST246,4,True,Network Diagnostics
+TKT1041,2023-02-15,Software Bug,API Gateway,4,CUST472,6,True,Bug Fix Patch v2.1
+TKT1042,2023-10-29,Compatibility Issue,Software Suite Pro,2,CUST280,60,False,Bridge Module
+TKT1043,2023-06-10,Performance Issues,Mobile App,4,CUST355,67,True,Performance Optimizer
+TKT1044,2023-11-19,Performance Issues,Data Manager,3,CUST459,46,True,Resource Monitor
+TKT1045,2023-05-07,Authentication Error,API Gateway,4,CUST254,2,True,Two-Factor Module
+TKT1046,2023-06-25,Authentication Error,API Gateway,4,CUST138,42,True,OAuth Handler
+TKT1047,2023-11-12,Performance Issues,Mobile App,2,CUST490,57,True,Resource Monitor
+TKT1048,2023-05-22,Authentication Error,Cloud Analytics,4,CUST470,15,True,Security Patch
+TKT1049,2023-02-20,Performance Issues,API Gateway,3,CUST252,58,True,Performance Optimizer
+TKT1050,2023-11-01,Data Sync Problem,Data Manager,4,CUST279,42,True,Data Reconciliation Tool
+TKT1051,2023-09-21,Connectivity Issues,API Gateway,2,CUST152,60,True,Network Diagnostics
+TKT1052,2023-12-16,Connectivity Issues,Cloud Analytics,2,CUST146,55,True,Firewall Config Tool
+TKT1053,2023-05-27,Compatibility Issue,Mobile App,3,CUST244,63,True,Version Manager
+TKT1054,2023-04-27,Software Bug,Software Suite Pro,4,CUST417,23,True,Bug Fix Patch v2.1
+TKT1055,2023-08-27,Software Bug,Cloud Analytics,3,CUST389,48,True,Bug Fix Patch v2.1
+TKT1056,2023-07-11,Performance Issues,Mobile App,2,CUST168,22,True,Load Balancer Pro
+TKT1057,2023-03-27,Software Bug,API Gateway,5,CUST284,29,True,Bug Fix Patch v2.1
+TKT1058,2023-07-23,Software Bug,Cloud Analytics,4,CUST499,48,True,Bug Fix Patch v2.1
+TKT1059,2023-09-07,Connectivity Issues,API Gateway,4,CUST109,69,False,Firewall Config Tool
+TKT1060,2023-04-06,Performance Issues,Data Manager,4,CUST356,69,True,Resource Monitor
+TKT1061,2023-06-09,Software Bug,Data Manager,4,CUST439,24,True,Core Engine Update
+TKT1062,2023-06-28,Authentication Error,Software Suite Pro,3,CUST200,12,True,Identity Manager
+TKT1063,2023-10-12,Authentication Error,API Gateway,4,CUST496,12,True,Security Patch
+TKT1064,2023-08-03,Software Bug,Cloud Analytics,5,CUST436,8,True,System Diagnostics Tool
+TKT1065,2023-04-15,Software Bug,Cloud Analytics,5,CUST490,68,True,System Diagnostics Tool
+TKT1066,2023-08-05,Authentication Error,Software Suite Pro,4,CUST376,36,True,Identity Manager
+TKT1067,2023-04-09,Connectivity Issues,Mobile App,2,CUST135,24,False,Firewall Config Tool
+TKT1068,2023-01-13,Data Sync Problem,Cloud Analytics,5,CUST378,30,False,Data Reconciliation Tool
+TKT1069,2023-07-06,Connectivity Issues,API Gateway,3,CUST118,49,True,Network Diagnostics
+TKT1070,2023-10-11,Installation Error,Mobile App,2,CUST305,52,True,System Checker
+TKT1071,2023-01-25,Software Bug,Software Suite Pro,5,CUST478,53,True,Bug Fix Patch v2.1
+TKT1072,2023-07-05,Software Bug,Software Suite Pro,4,CUST497,5,True,Bug Fix Patch v2.1
+TKT1073,2023-03-17,Performance Issues,Data Manager,4,CUST108,58,True,Performance Optimizer
+TKT1074,2023-06-17,Data Sync Problem,Data Manager,3,CUST269,9,True,Data Reconciliation Tool
+TKT1075,2023-12-05,Software Bug,Software Suite Pro,3,CUST235,65,False,Bug Fix Patch v2.1
+TKT1076,2023-05-12,Installation Error,Software Suite Pro,2,CUST391,70,True,System Checker
+TKT1077,2023-04-01,Data Sync Problem,Data Manager,5,CUST301,19,True,Cloud Connector
+TKT1078,2023-02-27,Performance Issues,Data Manager,3,CUST247,61,True,Load Balancer Pro
+TKT1079,2023-07-09,Authentication Error,Software Suite Pro,4,CUST290,25,False,Security Patch
+TKT1080,2023-06-09,Performance Issues,Data Manager,2,CUST272,61,True,Resource Monitor
+TKT1081,2023-06-13,Connectivity Issues,Mobile App,2,CUST326,19,False,VPN Manager
+TKT1082,2023-05-23,Software Bug,Software Suite Pro,4,CUST100,54,True,Core Engine Update
+TKT1083,2023-08-12,Software Bug,API Gateway,4,CUST371,24,True,System Diagnostics Tool
+TKT1084,2023-11-12,Software Bug,Cloud Analytics,4,CUST277,28,True,Bug Fix Patch v2.1
+TKT1085,2023-05-25,Performance Issues,API Gateway,3,CUST300,33,True,Performance Optimizer
+TKT1086,2023-02-15,Authentication Error,Software Suite Pro,3,CUST134,6,False,Two-Factor Module
+TKT1087,2023-01-10,Connectivity Issues,API Gateway,3,CUST411,30,False,Network Diagnostics
+TKT1088,2023-03-06,Software Bug,API Gateway,3,CUST245,49,True,System Diagnostics Tool
+TKT1089,2023-10-10,Performance Issues,Data Manager,4,CUST276,33,True,Load Balancer Pro
+TKT1090,2023-01-06,Software Bug,Software Suite Pro,5,CUST296,5,False,Bug Fix Patch v2.1
+TKT1091,2023-07-21,Connectivity Issues,API Gateway,2,CUST182,17,True,Network Diagnostics
+TKT1092,2023-07-24,Software Bug,Data Manager,3,CUST359,62,False,System Diagnostics Tool
+TKT1093,2023-06-03,Performance Issues,Mobile App,4,CUST349,34,True,Load Balancer Pro
+TKT1094,2023-08-24,Connectivity Issues,API Gateway,3,CUST488,57,True,Connection Optimizer
+TKT1095,2023-12-07,Software Bug,Data Manager,3,CUST497,66,True,Core Engine Update
+TKT1096,2023-10-21,Software Bug,API Gateway,4,CUST405,30,True,Core Engine Update
+TKT1097,2023-06-15,Installation Error,Mobile App,2,CUST434,30,True,System Checker
+TKT1098,2023-05-18,Authentication Error,Software Suite Pro,4,CUST283,17,True,Two-Factor Module
+TKT1099,2023-09-19,Software Bug,Software Suite Pro,4,CUST152,66,True,Core Engine Update
+TKT1100,2023-04-21,Connectivity Issues,Mobile App,4,CUST348,23,True,Connection Optimizer
+TKT1101,2023-07-14,Performance Issues,Mobile App,2,CUST451,67,True,Resource Monitor
+TKT1102,2023-10-04,Software Bug,Cloud Analytics,5,CUST104,42,True,Bug Fix Patch v2.1
+TKT1103,2023-01-12,Connectivity Issues,API Gateway,2,CUST445,46,True,VPN Manager
+TKT1104,2023-10-09,Performance Issues,API Gateway,2,CUST348,47,True,Load Balancer Pro
+TKT1105,2023-02-17,Connectivity Issues,Mobile App,4,CUST160,26,False,Firewall Config Tool
+TKT1106,2023-07-26,Authentication Error,Software Suite Pro,4,CUST402,56,True,Security Patch
+TKT1107,2023-12-31,Data Sync Problem,Data Manager,4,CUST253,14,True,Cloud Connector
+TKT1108,2023-08-26,Authentication Error,API Gateway,3,CUST462,18,True,OAuth Handler
+TKT1109,2023-04-29,Performance Issues,Mobile App,2,CUST127,39,True,Load Balancer Pro
+TKT1110,2023-05-25,Software Bug,Cloud Analytics,3,CUST112,25,True,Core Engine Update
+TKT1111,2023-08-16,Authentication Error,Cloud Analytics,3,CUST210,34,True,Two-Factor Module
+TKT1112,2023-04-11,Performance Issues,API Gateway,3,CUST105,52,True,Cache Manager
+TKT1113,2023-08-17,Software Bug,Data Manager,3,CUST476,33,True,Bug Fix Patch v2.1
+TKT1114,2023-11-27,Software Bug,Data Manager,4,CUST417,24,False,Core Engine Update
+TKT1115,2023-02-05,Software Bug,Data Manager,3,CUST322,6,True,Core Engine Update
+TKT1116,2023-04-04,Data Sync Problem,Data Manager,4,CUST161,57,True,Cloud Connector
+TKT1117,2023-10-27,Connectivity Issues,Mobile App,2,CUST232,70,False,Firewall Config Tool
+TKT1118,2023-05-20,Performance Issues,Cloud Analytics,2,CUST146,1,True,Resource Monitor
+TKT1119,2023-12-22,Software Bug,Cloud Analytics,5,CUST432,3,True,System Diagnostics Tool
+TKT1120,2023-05-18,Connectivity Issues,API Gateway,4,CUST271,2,True,VPN Manager
+TKT1121,2023-11-25,Software Bug,Data Manager,3,CUST372,9,True,System Diagnostics Tool
+TKT1122,2023-11-01,Performance Issues,Data Manager,4,CUST168,62,True,Cache Manager
+TKT1123,2023-05-17,Software Bug,API Gateway,5,CUST175,35,False,System Diagnostics Tool
+TKT1124,2023-12-27,Software Bug,Software Suite Pro,5,CUST328,14,True,Core Engine Update
+TKT1125,2023-03-19,Software Bug,Software Suite Pro,5,CUST161,4,True,System Diagnostics Tool
+TKT1126,2023-04-14,Performance Issues,Mobile App,4,CUST113,32,True,Cache Manager
+TKT1127,2023-06-02,Connectivity Issues,Mobile App,4,CUST244,66,True,Firewall Config Tool
+TKT1128,2023-07-17,Software Bug,Data Manager,5,CUST233,67,True,System Diagnostics Tool
+TKT1129,2023-06-06,Software Bug,Data Manager,5,CUST388,27,True,System Diagnostics Tool
+TKT1130,2023-10-16,Data Sync Problem,Cloud Analytics,3,CUST353,68,True,Data Reconciliation Tool
+TKT1131,2023-04-28,Connectivity Issues,Cloud Analytics,2,CUST393,13,True,Firewall Config Tool
+TKT1132,2023-05-16,Connectivity Issues,Mobile App,2,CUST360,29,True,Firewall Config Tool
+TKT1133,2023-04-25,Data Sync Problem,Mobile App,5,CUST342,36,True,Cloud Connector
+TKT1134,2023-11-26,Connectivity Issues,Mobile App,3,CUST459,38,True,Connection Optimizer
+TKT1135,2023-08-06,Connectivity Issues,Cloud Analytics,4,CUST240,62,True,Network Diagnostics
+TKT1136,2023-12-22,Software Bug,API Gateway,5,CUST423,5,False,Core Engine Update
+TKT1137,2023-02-20,Software Bug,API Gateway,5,CUST128,40,True,Core Engine Update
+TKT1138,2023-12-12,Connectivity Issues,Cloud Analytics,2,CUST209,36,True,Network Diagnostics
+TKT1139,2023-05-29,Performance Issues,Data Manager,4,CUST408,9,True,Performance Optimizer
+TKT1140,2023-03-04,Software Bug,Software Suite Pro,5,CUST343,25,False,System Diagnostics Tool
+TKT1141,2023-12-13,Performance Issues,Data Manager,4,CUST116,43,True,Load Balancer Pro
+TKT1142,2023-06-29,Software Bug,API Gateway,3,CUST297,33,True,Core Engine Update
+TKT1143,2023-02-18,Performance Issues,Data Manager,3,CUST436,49,True,Cache Manager
+TKT1144,2023-11-23,Software Bug,Software Suite Pro,3,CUST356,13,True,Core Engine Update
+TKT1145,2023-02-01,Software Bug,Data Manager,4,CUST257,29,True,Bug Fix Patch v2.1
+TKT1146,2023-09-14,Connectivity Issues,Mobile App,3,CUST177,47,True,VPN Manager
+TKT1147,2023-06-15,Performance Issues,Data Manager,3,CUST418,4,True,Performance Optimizer
+TKT1148,2023-06-11,Software Bug,Data Manager,4,CUST479,55,True,System Diagnostics Tool
+TKT1149,2023-09-04,Data Sync Problem,Cloud Analytics,3,CUST422,59,True,Backup Manager
+TKT1150,2023-03-08,Software Bug,Data Manager,3,CUST150,8,True,System Diagnostics Tool
+TKT1151,2023-06-14,Authentication Error,Cloud Analytics,3,CUST281,14,True,Two-Factor Module
+TKT1152,2023-06-10,Software Bug,Cloud Analytics,5,CUST250,19,True,Core Engine Update
+TKT1153,2023-10-30,Connectivity Issues,Cloud Analytics,3,CUST296,20,True,Connection Optimizer
+TKT1154,2023-01-20,Performance Issues,API Gateway,4,CUST360,37,True,Cache Manager
+TKT1155,2023-12-08,Performance Issues,Cloud Analytics,4,CUST463,24,True,Cache Manager
+TKT1156,2023-05-08,Connectivity Issues,Cloud Analytics,4,CUST323,14,True,VPN Manager
+TKT1157,2023-09-03,Authentication Error,API Gateway,3,CUST377,4,True,Identity Manager
+TKT1158,2023-03-16,Software Bug,Data Manager,3,CUST425,18,True,System Diagnostics Tool
+TKT1159,2023-01-17,Connectivity Issues,Cloud Analytics,3,CUST264,25,True,Firewall Config Tool
+TKT1160,2023-01-27,Software Bug,Cloud Analytics,4,CUST412,31,False,System Diagnostics Tool
+TKT1161,2023-06-22,Authentication Error,Software Suite Pro,3,CUST289,46,True,Two-Factor Module
+TKT1162,2023-06-30,Compatibility Issue,Software Suite Pro,4,CUST391,26,True,Bridge Module
+TKT1163,2023-07-06,Performance Issues,Mobile App,2,CUST394,54,True,Load Balancer Pro
+TKT1164,2023-11-08,Compatibility Issue,Mobile App,2,CUST388,36,True,Bridge Module
+TKT1165,2023-12-31,Connectivity Issues,Mobile App,2,CUST300,26,True,Network Diagnostics
+TKT1166,2023-08-05,Software Bug,Software Suite Pro,3,CUST160,43,True,Bug Fix Patch v2.1
+TKT1167,2023-08-17,Software Bug,Data Manager,4,CUST207,44,False,System Diagnostics Tool
+TKT1168,2023-02-13,Connectivity Issues,Mobile App,2,CUST404,61,True,Network Diagnostics
+TKT1169,2023-03-21,Performance Issues,API Gateway,3,CUST315,8,True,Performance Optimizer
+TKT1170,2023-07-17,Authentication Error,Cloud Analytics,4,CUST299,25,False,Two-Factor Module
+TKT1171,2023-12-31,Software Bug,Cloud Analytics,3,CUST125,47,True,Core Engine Update
+TKT1172,2023-03-27,Compatibility Issue,Mobile App,2,CUST349,7,True,Compatibility Layer
+TKT1173,2023-11-24,Authentication Error,API Gateway,4,CUST414,39,True,OAuth Handler
+TKT1174,2023-06-08,Data Sync Problem,Cloud Analytics,4,CUST251,60,True,Cloud Connector
+TKT1175,2023-12-30,Authentication Error,Cloud Analytics,3,CUST138,15,True,Two-Factor Module
+TKT1176,2023-07-29,Data Sync Problem,Cloud Analytics,3,CUST260,16,True,Backup Manager
+TKT1177,2023-06-19,Software Bug,Data Manager,5,CUST133,30,True,Bug Fix Patch v2.1
+TKT1178,2023-02-08,Connectivity Issues,Mobile App,4,CUST401,29,True,Network Diagnostics
+TKT1179,2023-09-29,Software Bug,API Gateway,3,CUST335,10,True,Core Engine Update
+TKT1180,2023-06-26,Performance Issues,Cloud Analytics,2,CUST102,45,True,Cache Manager
+TKT1181,2023-10-20,Data Sync Problem,Data Manager,4,CUST252,48,True,Data Reconciliation Tool
+TKT1182,2023-12-10,Software Bug,Data Manager,3,CUST239,59,False,Bug Fix Patch v2.1
+TKT1183,2023-10-22,Performance Issues,Mobile App,3,CUST418,46,True,Cache Manager
+TKT1184,2023-02-21,Authentication Error,Software Suite Pro,3,CUST359,59,True,Identity Manager
+TKT1185,2023-11-26,Authentication Error,Software Suite Pro,3,CUST206,57,True,Identity Manager
+TKT1186,2023-09-18,Compatibility Issue,Mobile App,2,CUST153,47,True,Compatibility Layer
+TKT1187,2023-03-02,Installation Error,Mobile App,2,CUST478,35,True,Dependency Manager
+TKT1188,2023-09-26,Compatibility Issue,API Gateway,4,CUST219,68,True,Version Manager
+TKT1189,2023-01-29,Connectivity Issues,Mobile App,4,CUST236,67,False,Firewall Config Tool
+TKT1190,2023-09-18,Software Bug,Data Manager,3,CUST494,59,True,Core Engine Update
+TKT1191,2023-06-25,Software Bug,Data Manager,3,CUST189,18,True,Bug Fix Patch v2.1
+TKT1192,2023-04-24,Installation Error,Software Suite Pro,2,CUST139,45,True,Setup Wizard
+TKT1193,2023-02-09,Installation Error,Software Suite Pro,3,CUST453,40,True,Setup Wizard
+TKT1194,2023-06-17,Authentication Error,API Gateway,4,CUST191,59,False,Identity Manager
+TKT1195,2023-06-30,Performance Issues,Cloud Analytics,2,CUST269,63,True,Resource Monitor
+TKT1196,2023-11-10,Software Bug,Data Manager,3,CUST348,31,True,System Diagnostics Tool
+TKT1197,2023-02-08,Data Sync Problem,Cloud Analytics,4,CUST181,2,True,Sync Engine Patch
+TKT1198,2023-02-15,Performance Issues,Data Manager,2,CUST254,17,True,Cache Manager
+TKT1199,2023-11-22,Authentication Error,Software Suite Pro,3,CUST173,63,True,OAuth Handler
+TKT1200,2023-07-15,Installation Error,Software Suite Pro,3,CUST451,68,True,Setup Wizard
+TKT1201,2023-07-12,Data Sync Problem,Cloud Analytics,4,CUST121,50,False,Cloud Connector
+TKT1202,2023-01-07,Compatibility Issue,API Gateway,4,CUST128,11,True,Bridge Module
+TKT1203,2023-02-27,Connectivity Issues,Mobile App,4,CUST125,46,True,Firewall Config Tool
+TKT1204,2023-02-08,Performance Issues,Cloud Analytics,2,CUST370,29,True,Resource Monitor
+TKT1205,2023-03-25,Data Sync Problem,Mobile App,4,CUST121,27,False,Data Reconciliation Tool
+TKT1206,2023-01-21,Software Bug,API Gateway,3,CUST402,59,False,Core Engine Update
+TKT1207,2023-09-14,Performance Issues,API Gateway,4,CUST157,38,True,Performance Optimizer
+TKT1208,2023-10-07,Software Bug,Software Suite Pro,3,CUST111,18,False,Core Engine Update
+TKT1209,2023-05-25,Compatibility Issue,Mobile App,2,CUST192,53,True,Bridge Module
+TKT1210,2023-12-15,Data Sync Problem,Mobile App,5,CUST280,24,False,Cloud Connector
+TKT1211,2023-08-10,Software Bug,Data Manager,3,CUST305,71,True,Bug Fix Patch v2.1
+TKT1212,2023-08-02,Software Bug,Software Suite Pro,5,CUST216,2,True,Core Engine Update
+TKT1213,2023-10-01,Compatibility Issue,Software Suite Pro,2,CUST419,38,True,Compatibility Layer
+TKT1214,2023-09-24,Data Sync Problem,Data Manager,3,CUST313,51,True,Sync Engine Patch
+TKT1215,2023-03-21,Software Bug,Cloud Analytics,5,CUST409,20,True,System Diagnostics Tool
+TKT1216,2023-10-16,Performance Issues,Data Manager,2,CUST332,30,True,Resource Monitor
+TKT1217,2023-06-15,Performance Issues,API Gateway,3,CUST458,46,True,Load Balancer Pro
+TKT1218,2023-12-26,Software Bug,Data Manager,3,CUST416,67,False,Bug Fix Patch v2.1
+TKT1219,2023-02-10,Installation Error,Software Suite Pro,2,CUST469,8,False,Installation Guide
+TKT1220,2023-09-08,Data Sync Problem,Data Manager,5,CUST482,7,True,Backup Manager
+TKT1221,2023-01-03,Connectivity Issues,Cloud Analytics,3,CUST226,41,True,VPN Manager
+TKT1222,2023-01-12,Software Bug,Cloud Analytics,5,CUST496,25,False,System Diagnostics Tool
+TKT1223,2023-08-09,Performance Issues,Data Manager,2,CUST218,53,True,Load Balancer Pro
+TKT1224,2023-07-30,Software Bug,Cloud Analytics,4,CUST249,37,False,Bug Fix Patch v2.1
+TKT1225,2023-02-04,Connectivity Issues,Cloud Analytics,4,CUST192,54,True,Network Diagnostics
+TKT1226,2023-08-01,Data Sync Problem,Cloud Analytics,4,CUST258,58,True,Backup Manager
+TKT1227,2023-06-01,Authentication Error,Cloud Analytics,4,CUST149,49,True,Identity Manager
+TKT1228,2023-08-16,Performance Issues,Cloud Analytics,3,CUST165,34,True,Load Balancer Pro
+TKT1229,2023-09-03,Performance Issues,API Gateway,3,CUST224,12,True,Cache Manager
+TKT1230,2023-12-21,Authentication Error,API Gateway,3,CUST381,8,True,Security Patch
+TKT1231,2023-11-30,Software Bug,API Gateway,4,CUST101,37,False,Bug Fix Patch v2.1
+TKT1232,2023-04-21,Performance Issues,Data Manager,2,CUST113,2,True,Performance Optimizer
+TKT1233,2023-06-12,Performance Issues,Cloud Analytics,3,CUST328,5,True,Resource Monitor
+TKT1234,2023-10-30,Connectivity Issues,API Gateway,4,CUST386,11,False,VPN Manager
+TKT1235,2023-09-23,Software Bug,Cloud Analytics,3,CUST431,1,True,Core Engine Update
+TKT1236,2023-10-11,Installation Error,Software Suite Pro,3,CUST220,37,True,Installation Guide
+TKT1237,2023-07-26,Connectivity Issues,API Gateway,4,CUST489,61,True,VPN Manager
+TKT1238,2023-01-20,Software Bug,Data Manager,3,CUST381,29,True,Core Engine Update
+TKT1239,2023-11-21,Connectivity Issues,API Gateway,4,CUST260,51,True,VPN Manager
+TKT1240,2023-10-26,Performance Issues,Data Manager,4,CUST225,50,False,Load Balancer Pro
+TKT1241,2023-06-27,Connectivity Issues,Mobile App,4,CUST393,23,True,Network Diagnostics
+TKT1242,2023-01-08,Software Bug,Cloud Analytics,4,CUST440,1,True,Bug Fix Patch v2.1
+TKT1243,2023-03-27,Performance Issues,Cloud Analytics,4,CUST274,34,True,Load Balancer Pro
+TKT1244,2023-04-24,Installation Error,Mobile App,3,CUST244,26,False,Installation Guide
+TKT1245,2023-10-29,Data Sync Problem,Mobile App,3,CUST388,1,True,Backup Manager
+TKT1246,2023-03-31,Data Sync Problem,Cloud Analytics,3,CUST319,66,False,Data Reconciliation Tool
+TKT1247,2023-03-30,Performance Issues,Cloud Analytics,2,CUST275,13,True,Performance Optimizer
+TKT1248,2023-04-12,Performance Issues,API Gateway,3,CUST231,19,True,Cache Manager
+TKT1249,2023-12-31,Installation Error,Software Suite Pro,2,CUST430,1,True,Dependency Manager
+TKT1250,2023-03-06,Authentication Error,Software Suite Pro,3,CUST175,71,True,OAuth Handler
+TKT1251,2023-11-01,Performance Issues,Cloud Analytics,2,CUST323,35,True,Cache Manager
+TKT1252,2023-11-26,Connectivity Issues,Cloud Analytics,3,CUST364,3,True,Firewall Config Tool
+TKT1253,2023-08-09,Connectivity Issues,Cloud Analytics,2,CUST253,25,True,VPN Manager
+TKT1254,2023-02-12,Connectivity Issues,Mobile App,4,CUST442,70,True,Firewall Config Tool
+TKT1255,2023-04-17,Compatibility Issue,Software Suite Pro,2,CUST435,47,True,Bridge Module
+TKT1256,2023-09-28,Software Bug,Data Manager,5,CUST423,21,True,Core Engine Update
+TKT1257,2023-02-21,Software Bug,Software Suite Pro,3,CUST126,29,True,Core Engine Update
+TKT1258,2023-05-26,Connectivity Issues,Cloud Analytics,3,CUST101,49,False,VPN Manager
+TKT1259,2023-12-17,Software Bug,Data Manager,5,CUST207,39,True,Core Engine Update
+TKT1260,2023-10-25,Performance Issues,Cloud Analytics,3,CUST135,68,True,Cache Manager
+TKT1261,2023-02-16,Connectivity Issues,API Gateway,3,CUST478,13,True,VPN Manager
+TKT1262,2023-01-09,Connectivity Issues,API Gateway,3,CUST370,10,True,Network Diagnostics
+TKT1263,2023-12-13,Data Sync Problem,Cloud Analytics,4,CUST392,68,True,Cloud Connector
+TKT1264,2023-12-11,Data Sync Problem,Mobile App,4,CUST245,19,True,Sync Engine Patch
+TKT1265,2023-02-18,Performance Issues,Cloud Analytics,4,CUST207,33,True,Performance Optimizer
+TKT1266,2023-06-09,Software Bug,Software Suite Pro,5,CUST110,10,True,Bug Fix Patch v2.1
+TKT1267,2023-09-15,Connectivity Issues,Cloud Analytics,2,CUST419,35,True,VPN Manager
+TKT1268,2023-06-16,Performance Issues,Data Manager,2,CUST340,24,True,Load Balancer Pro
+TKT1269,2023-10-15,Authentication Error,Cloud Analytics,4,CUST266,36,True,Identity Manager
+TKT1270,2023-03-11,Connectivity Issues,API Gateway,2,CUST295,13,True,VPN Manager
+TKT1271,2023-05-29,Authentication Error,API Gateway,4,CUST363,50,True,Two-Factor Module
+TKT1272,2023-11-22,Performance Issues,API Gateway,3,CUST229,44,True,Performance Optimizer
+TKT1273,2023-04-26,Compatibility Issue,API Gateway,3,CUST363,22,True,Legacy Support
+TKT1274,2023-10-30,Compatibility Issue,Software Suite Pro,4,CUST410,62,True,Bridge Module
+TKT1275,2023-05-24,Data Sync Problem,Cloud Analytics,5,CUST129,23,True,Backup Manager
+TKT1276,2023-05-01,Software Bug,API Gateway,3,CUST385,21,True,System Diagnostics Tool
+TKT1277,2023-09-29,Software Bug,Data Manager,3,CUST137,14,True,Core Engine Update
+TKT1278,2023-12-07,Performance Issues,Data Manager,2,CUST357,65,True,Resource Monitor
+TKT1279,2023-11-07,Performance Issues,Data Manager,3,CUST361,35,True,Load Balancer Pro
+TKT1280,2023-01-12,Compatibility Issue,Software Suite Pro,3,CUST338,49,True,Version Manager
+TKT1281,2023-06-07,Authentication Error,Cloud Analytics,4,CUST233,67,True,Two-Factor Module
+TKT1282,2023-06-12,Data Sync Problem,Mobile App,3,CUST165,2,True,Data Reconciliation Tool
+TKT1283,2023-10-08,Compatibility Issue,Mobile App,2,CUST352,54,True,Bridge Module
+TKT1284,2023-08-26,Connectivity Issues,Cloud Analytics,3,CUST480,52,True,Network Diagnostics
+TKT1285,2023-01-25,Data Sync Problem,Cloud Analytics,3,CUST178,68,True,Backup Manager
+TKT1286,2023-11-30,Compatibility Issue,Software Suite Pro,4,CUST119,18,True,Bridge Module
+TKT1287,2023-09-11,Authentication Error,Software Suite Pro,3,CUST229,60,True,OAuth Handler
+TKT1288,2023-09-23,Software Bug,Data Manager,4,CUST444,2,True,System Diagnostics Tool
+TKT1289,2023-03-24,Software Bug,API Gateway,5,CUST492,21,True,System Diagnostics Tool
+TKT1290,2023-09-17,Performance Issues,API Gateway,2,CUST359,40,True,Load Balancer Pro
+TKT1291,2023-08-19,Software Bug,Software Suite Pro,4,CUST277,63,True,Core Engine Update
+TKT1292,2023-01-07,Performance Issues,Cloud Analytics,4,CUST254,14,True,Performance Optimizer
+TKT1293,2023-03-03,Data Sync Problem,Data Manager,5,CUST318,21,True,Cloud Connector
+TKT1294,2023-03-06,Connectivity Issues,Mobile App,3,CUST112,53,True,Network Diagnostics
+TKT1295,2023-07-07,Software Bug,Software Suite Pro,5,CUST494,63,True,Core Engine Update
+TKT1296,2023-02-21,Software Bug,Cloud Analytics,4,CUST211,52,False,System Diagnostics Tool
+TKT1297,2023-04-15,Data Sync Problem,Cloud Analytics,3,CUST291,17,True,Sync Engine Patch
+TKT1298,2023-01-10,Authentication Error,Software Suite Pro,3,CUST341,58,True,Two-Factor Module
+TKT1299,2023-10-17,Connectivity Issues,Mobile App,4,CUST363,59,True,Network Diagnostics
+TKT1300,2023-06-22,Authentication Error,API Gateway,4,CUST168,32,False,OAuth Handler
+TKT1301,2023-03-28,Authentication Error,Software Suite Pro,4,CUST142,1,True,Two-Factor Module
+TKT1302,2023-05-28,Software Bug,Software Suite Pro,3,CUST376,58,True,Core Engine Update
+TKT1303,2023-01-28,Compatibility Issue,API Gateway,4,CUST150,58,True,Version Manager
+TKT1304,2023-04-21,Data Sync Problem,Data Manager,4,CUST467,8,True,Sync Engine Patch
+TKT1305,2023-02-18,Compatibility Issue,API Gateway,3,CUST391,68,True,Compatibility Layer
+TKT1306,2023-09-12,Compatibility Issue,API Gateway,3,CUST469,10,True,Legacy Support
+TKT1307,2023-09-26,Connectivity Issues,Cloud Analytics,3,CUST280,32,True,Firewall Config Tool
+TKT1308,2023-01-10,Authentication Error,Cloud Analytics,3,CUST370,17,False,OAuth Handler
+TKT1309,2023-11-30,Software Bug,API Gateway,5,CUST223,22,True,Bug Fix Patch v2.1
+TKT1310,2023-04-23,Authentication Error,API Gateway,4,CUST475,21,True,Two-Factor Module
+TKT1311,2023-09-25,Performance Issues,API Gateway,2,CUST332,47,True,Performance Optimizer
+TKT1312,2023-12-26,Software Bug,Cloud Analytics,4,CUST337,7,True,Core Engine Update
+TKT1313,2023-12-11,Performance Issues,Data Manager,4,CUST121,29,True,Cache Manager
+TKT1314,2023-02-19,Software Bug,Data Manager,5,CUST194,23,True,Bug Fix Patch v2.1
+TKT1315,2023-12-19,Performance Issues,Cloud Analytics,2,CUST283,3,True,Load Balancer Pro
+TKT1316,2023-04-18,Software Bug,Cloud Analytics,5,CUST466,25,True,Core Engine Update
+TKT1317,2023-12-30,Software Bug,Cloud Analytics,3,CUST360,3,False,Core Engine Update
+TKT1318,2023-01-10,Performance Issues,Data Manager,3,CUST483,46,True,Load Balancer Pro
+TKT1319,2023-03-27,Authentication Error,Software Suite Pro,3,CUST333,58,True,Identity Manager
+TKT1320,2023-01-20,Software Bug,Software Suite Pro,4,CUST174,16,True,Core Engine Update
+TKT1321,2023-07-05,Connectivity Issues,Mobile App,2,CUST231,4,True,Firewall Config Tool
+TKT1322,2023-08-18,Software Bug,Cloud Analytics,3,CUST409,21,True,System Diagnostics Tool
+TKT1323,2023-01-20,Performance Issues,Cloud Analytics,2,CUST372,71,True,Cache Manager
+TKT1324,2023-07-05,Authentication Error,Software Suite Pro,4,CUST154,4,True,Two-Factor Module
+TKT1325,2023-06-08,Authentication Error,Cloud Analytics,3,CUST287,60,True,OAuth Handler
+TKT1326,2023-03-17,Software Bug,Cloud Analytics,3,CUST129,58,True,Core Engine Update
+TKT1327,2023-08-16,Data Sync Problem,Mobile App,3,CUST449,55,True,Sync Engine Patch
+TKT1328,2023-09-08,Software Bug,API Gateway,3,CUST350,47,False,System Diagnostics Tool
+TKT1329,2023-09-17,Authentication Error,Software Suite Pro,4,CUST247,47,True,Security Patch
+TKT1330,2023-05-17,Compatibility Issue,API Gateway,4,CUST189,16,True,Legacy Support
+TKT1331,2023-04-17,Performance Issues,Data Manager,4,CUST212,70,True,Performance Optimizer
+TKT1332,2023-02-04,Data Sync Problem,Mobile App,4,CUST401,26,False,Sync Engine Patch
+TKT1333,2023-03-15,Connectivity Issues,API Gateway,2,CUST291,5,True,VPN Manager
+TKT1334,2023-05-09,Software Bug,Data Manager,5,CUST379,57,True,Bug Fix Patch v2.1
+TKT1335,2023-01-31,Software Bug,API Gateway,3,CUST183,24,True,Bug Fix Patch v2.1
+TKT1336,2023-12-08,Software Bug,API Gateway,4,CUST319,7,True,System Diagnostics Tool
+TKT1337,2023-04-16,Software Bug,API Gateway,4,CUST316,70,True,Bug Fix Patch v2.1
+TKT1338,2023-09-07,Data Sync Problem,Mobile App,4,CUST462,57,True,Data Reconciliation Tool
+TKT1339,2023-05-07,Performance Issues,API Gateway,3,CUST498,32,True,Resource Monitor
+TKT1340,2023-06-03,Software Bug,API Gateway,5,CUST475,14,True,System Diagnostics Tool
+TKT1341,2023-03-28,Compatibility Issue,Software Suite Pro,4,CUST317,37,True,Bridge Module
+TKT1342,2023-06-10,Performance Issues,Cloud Analytics,2,CUST277,68,True,Performance Optimizer
+TKT1343,2023-03-22,Data Sync Problem,Mobile App,3,CUST251,61,True,Backup Manager
+TKT1344,2023-03-27,Authentication Error,Software Suite Pro,3,CUST276,17,True,Security Patch
+TKT1345,2023-12-07,Connectivity Issues,API Gateway,3,CUST104,2,True,Network Diagnostics
+TKT1346,2023-05-05,Authentication Error,Cloud Analytics,4,CUST266,40,True,OAuth Handler
+TKT1347,2023-02-18,Connectivity Issues,Mobile App,4,CUST131,7,False,VPN Manager
+TKT1348,2023-05-23,Performance Issues,Data Manager,3,CUST475,14,True,Performance Optimizer
+TKT1349,2023-03-07,Connectivity Issues,Cloud Analytics,2,CUST347,3,False,Network Diagnostics
+TKT1350,2023-06-16,Performance Issues,API Gateway,3,CUST378,50,True,Performance Optimizer
+TKT1351,2023-06-13,Compatibility Issue,Mobile App,2,CUST184,55,True,Bridge Module
+TKT1352,2023-02-11,Installation Error,Mobile App,3,CUST415,70,True,System Checker
+TKT1353,2023-10-10,Authentication Error,Software Suite Pro,3,CUST213,40,True,Two-Factor Module
+TKT1354,2023-06-25,Software Bug,API Gateway,3,CUST206,4,True,System Diagnostics Tool
+TKT1355,2023-01-12,Software Bug,API Gateway,3,CUST494,46,True,Bug Fix Patch v2.1
+TKT1356,2023-01-21,Performance Issues,API Gateway,2,CUST257,13,True,Resource Monitor
+TKT1357,2023-09-04,Installation Error,Software Suite Pro,2,CUST227,27,True,System Checker
+TKT1358,2023-06-03,Connectivity Issues,API Gateway,3,CUST481,5,False,Firewall Config Tool
+TKT1359,2023-05-14,Data Sync Problem,Data Manager,4,CUST310,60,True,Cloud Connector
+TKT1360,2023-08-01,Installation Error,Mobile App,3,CUST315,3,False,Dependency Manager
+TKT1361,2023-07-09,Software Bug,Software Suite Pro,4,CUST262,52,False,Core Engine Update
+TKT1362,2023-10-06,Connectivity Issues,Cloud Analytics,4,CUST275,22,True,Firewall Config Tool
+TKT1363,2023-10-16,Connectivity Issues,Mobile App,4,CUST311,16,True,Connection Optimizer
+TKT1364,2023-07-20,Authentication Error,API Gateway,3,CUST247,1,True,OAuth Handler
+TKT1365,2023-10-30,Software Bug,Data Manager,4,CUST393,15,True,Core Engine Update
+TKT1366,2023-05-22,Data Sync Problem,Cloud Analytics,4,CUST138,9,True,Sync Engine Patch
+TKT1367,2023-05-14,Installation Error,Software Suite Pro,2,CUST350,23,True,Dependency Manager
+TKT1368,2023-04-10,Performance Issues,Data Manager,3,CUST427,62,True,Cache Manager
+TKT1369,2023-10-08,Data Sync Problem,Mobile App,3,CUST443,14,False,Cloud Connector
+TKT1370,2023-04-20,Software Bug,Software Suite Pro,5,CUST486,42,True,Bug Fix Patch v2.1
+TKT1371,2023-09-08,Compatibility Issue,API Gateway,2,CUST223,19,False,Version Manager
+TKT1372,2023-06-13,Software Bug,Software Suite Pro,3,CUST385,9,True,Bug Fix Patch v2.1
+TKT1373,2023-11-30,Data Sync Problem,Cloud Analytics,5,CUST321,41,True,Backup Manager
+TKT1374,2023-05-05,Installation Error,Mobile App,2,CUST209,41,False,System Checker
+TKT1375,2023-06-07,Software Bug,Software Suite Pro,4,CUST367,35,True,System Diagnostics Tool
+TKT1376,2023-11-21,Data Sync Problem,Mobile App,3,CUST403,20,True,Backup Manager
+TKT1377,2023-11-20,Software Bug,Software Suite Pro,3,CUST134,65,True,Core Engine Update
+TKT1378,2023-03-17,Performance Issues,Mobile App,3,CUST273,47,True,Load Balancer Pro
+TKT1379,2023-08-20,Installation Error,Software Suite Pro,3,CUST120,51,True,Setup Wizard
+TKT1380,2023-12-14,Authentication Error,API Gateway,3,CUST127,4,True,Identity Manager
+TKT1381,2023-12-13,Compatibility Issue,Mobile App,3,CUST460,1,True,Version Manager
+TKT1382,2023-03-02,Software Bug,Software Suite Pro,4,CUST367,6,True,Core Engine Update
+TKT1383,2023-04-03,Performance Issues,Cloud Analytics,2,CUST208,40,True,Resource Monitor
+TKT1384,2023-05-21,Performance Issues,Mobile App,2,CUST288,49,True,Cache Manager
+TKT1385,2023-10-22,Data Sync Problem,Cloud Analytics,4,CUST440,49,True,Data Reconciliation Tool
+TKT1386,2023-09-22,Performance Issues,Data Manager,2,CUST443,37,True,Performance Optimizer
+TKT1387,2023-07-02,Software Bug,Data Manager,5,CUST140,39,True,Core Engine Update
+TKT1388,2023-05-07,Software Bug,Data Manager,3,CUST145,45,True,Core Engine Update
+TKT1389,2023-04-19,Performance Issues,Mobile App,2,CUST367,61,True,Performance Optimizer
+TKT1390,2023-01-08,Authentication Error,Cloud Analytics,3,CUST252,46,True,Identity Manager
+TKT1391,2023-12-06,Data Sync Problem,Cloud Analytics,5,CUST437,18,True,Data Reconciliation Tool
+TKT1392,2023-05-27,Data Sync Problem,Data Manager,3,CUST338,28,True,Sync Engine Patch
+TKT1393,2023-05-23,Software Bug,Cloud Analytics,5,CUST140,39,True,Bug Fix Patch v2.1
+TKT1394,2023-11-27,Authentication Error,Cloud Analytics,3,CUST365,14,True,Security Patch
+TKT1395,2023-03-25,Software Bug,Data Manager,5,CUST254,2,True,Core Engine Update
+TKT1396,2023-09-25,Connectivity Issues,Cloud Analytics,2,CUST334,65,True,Connection Optimizer
+TKT1397,2023-02-18,Software Bug,Software Suite Pro,4,CUST226,25,True,Bug Fix Patch v2.1
+TKT1398,2023-04-17,Software Bug,Software Suite Pro,4,CUST245,36,True,Core Engine Update
+TKT1399,2023-01-30,Connectivity Issues,Cloud Analytics,3,CUST287,32,True,Firewall Config Tool
+TKT1400,2023-01-23,Connectivity Issues,API Gateway,4,CUST459,48,True,Connection Optimizer
+TKT1401,2023-06-16,Authentication Error,Software Suite Pro,4,CUST389,56,True,OAuth Handler
+TKT1402,2023-07-12,Software Bug,API Gateway,3,CUST146,20,True,System Diagnostics Tool
+TKT1403,2023-05-06,Authentication Error,API Gateway,3,CUST494,49,True,Two-Factor Module
+TKT1404,2023-04-26,Authentication Error,Cloud Analytics,4,CUST303,65,True,Identity Manager
+TKT1405,2023-12-10,Software Bug,Software Suite Pro,4,CUST166,45,True,Core Engine Update
+TKT1406,2023-08-22,Software Bug,Data Manager,5,CUST150,50,True,Bug Fix Patch v2.1
+TKT1407,2023-05-02,Connectivity Issues,Cloud Analytics,3,CUST224,37,False,Network Diagnostics
+TKT1408,2023-07-20,Connectivity Issues,Cloud Analytics,3,CUST468,29,True,Connection Optimizer
+TKT1409,2023-08-12,Software Bug,Software Suite Pro,3,CUST377,68,False,Bug Fix Patch v2.1
+TKT1410,2023-12-08,Connectivity Issues,Cloud Analytics,2,CUST408,51,True,VPN Manager
+TKT1411,2023-12-07,Performance Issues,API Gateway,3,CUST482,21,False,Load Balancer Pro
+TKT1412,2023-10-07,Connectivity Issues,API Gateway,4,CUST224,13,True,Connection Optimizer
+TKT1413,2023-04-09,Software Bug,Software Suite Pro,3,CUST351,24,True,Bug Fix Patch v2.1
+TKT1414,2023-04-11,Authentication Error,Software Suite Pro,3,CUST263,19,True,OAuth Handler
+TKT1415,2023-06-22,Installation Error,Software Suite Pro,3,CUST146,12,True,Dependency Manager
+TKT1416,2023-07-03,Data Sync Problem,Cloud Analytics,3,CUST119,41,False,Backup Manager
+TKT1417,2023-06-03,Compatibility Issue,API Gateway,4,CUST403,52,False,Bridge Module
+TKT1418,2023-03-16,Performance Issues,Mobile App,3,CUST315,23,True,Load Balancer Pro
+TKT1419,2023-06-28,Installation Error,Software Suite Pro,3,CUST318,51,True,System Checker
+TKT1420,2023-02-17,Connectivity Issues,API Gateway,4,CUST428,45,True,Network Diagnostics
+TKT1421,2023-03-04,Performance Issues,Mobile App,4,CUST393,67,True,Performance Optimizer
+TKT1422,2023-07-27,Compatibility Issue,Software Suite Pro,4,CUST213,22,True,Bridge Module
+TKT1423,2023-11-16,Installation Error,Mobile App,3,CUST225,21,True,Dependency Manager
+TKT1424,2023-02-26,Performance Issues,API Gateway,3,CUST321,47,False,Cache Manager
+TKT1425,2023-11-23,Authentication Error,Software Suite Pro,4,CUST129,7,True,Two-Factor Module
+TKT1426,2023-02-06,Data Sync Problem,Cloud Analytics,5,CUST240,8,True,Backup Manager
+TKT1427,2023-07-13,Data Sync Problem,Cloud Analytics,5,CUST290,23,True,Data Reconciliation Tool
+TKT1428,2023-12-24,Performance Issues,Mobile App,3,CUST174,3,True,Performance Optimizer
+TKT1429,2023-03-02,Installation Error,Mobile App,2,CUST182,16,True,Setup Wizard
+TKT1430,2023-07-07,Connectivity Issues,Cloud Analytics,3,CUST421,66,True,Firewall Config Tool
+TKT1431,2023-10-22,Performance Issues,Mobile App,3,CUST491,55,False,Performance Optimizer
+TKT1432,2023-08-21,Connectivity Issues,Mobile App,2,CUST257,53,True,Connection Optimizer
+TKT1433,2023-08-02,Performance Issues,Cloud Analytics,2,CUST130,55,True,Cache Manager
+TKT1434,2023-01-14,Connectivity Issues,Cloud Analytics,3,CUST277,28,True,Network Diagnostics
+TKT1435,2023-07-10,Data Sync Problem,Data Manager,4,CUST359,59,True,Data Reconciliation Tool
+TKT1436,2023-10-17,Performance Issues,API Gateway,3,CUST437,49,True,Load Balancer Pro
+TKT1437,2023-10-01,Software Bug,Software Suite Pro,4,CUST195,38,False,System Diagnostics Tool
+TKT1438,2023-11-16,Connectivity Issues,Cloud Analytics,2,CUST256,28,True,Network Diagnostics
+TKT1439,2023-06-11,Software Bug,Software Suite Pro,5,CUST199,15,False,Core Engine Update
+TKT1440,2023-06-28,Installation Error,Mobile App,3,CUST285,29,True,System Checker
+TKT1441,2023-06-24,Data Sync Problem,Mobile App,4,CUST122,21,False,Sync Engine Patch
+TKT1442,2023-10-08,Compatibility Issue,API Gateway,2,CUST193,21,True,Bridge Module
+TKT1443,2023-04-11,Authentication Error,Cloud Analytics,3,CUST403,28,False,OAuth Handler
+TKT1444,2023-08-15,Connectivity Issues,Cloud Analytics,3,CUST335,71,True,VPN Manager
+TKT1445,2023-01-16,Connectivity Issues,Mobile App,3,CUST236,38,True,Firewall Config Tool
+TKT1446,2023-06-22,Authentication Error,Software Suite Pro,3,CUST336,34,True,Two-Factor Module
+TKT1447,2023-01-28,Authentication Error,Cloud Analytics,3,CUST425,44,True,Two-Factor Module
+TKT1448,2023-09-09,Connectivity Issues,API Gateway,2,CUST334,13,True,VPN Manager
+TKT1449,2023-02-22,Data Sync Problem,Cloud Analytics,5,CUST173,46,True,Data Reconciliation Tool
+TKT1450,2023-12-22,Performance Issues,Data Manager,2,CUST497,10,True,Load Balancer Pro
+TKT1451,2023-01-24,Performance Issues,Cloud Analytics,3,CUST128,43,False,Cache Manager
+TKT1452,2023-12-06,Connectivity Issues,Cloud Analytics,2,CUST218,28,True,Network Diagnostics
+TKT1453,2023-06-30,Connectivity Issues,Cloud Analytics,4,CUST269,59,True,Network Diagnostics
+TKT1454,2023-08-12,Software Bug,Cloud Analytics,5,CUST252,33,True,Core Engine Update
+TKT1455,2023-05-15,Performance Issues,Data Manager,4,CUST327,51,True,Load Balancer Pro
+TKT1456,2023-02-14,Data Sync Problem,Mobile App,3,CUST313,59,True,Cloud Connector
+TKT1457,2023-08-14,Authentication Error,Software Suite Pro,4,CUST304,44,True,Security Patch
+TKT1458,2023-11-08,Compatibility Issue,API Gateway,2,CUST195,50,True,Legacy Support
+TKT1459,2023-02-28,Software Bug,Software Suite Pro,3,CUST189,71,True,System Diagnostics Tool
+TKT1460,2023-12-05,Data Sync Problem,Mobile App,3,CUST366,53,True,Backup Manager
+TKT1461,2023-11-17,Performance Issues,Mobile App,4,CUST148,47,False,Resource Monitor
+TKT1462,2023-06-08,Authentication Error,Software Suite Pro,3,CUST273,26,True,Identity Manager
+TKT1463,2023-09-05,Connectivity Issues,API Gateway,4,CUST153,33,False,Connection Optimizer
+TKT1464,2023-10-04,Data Sync Problem,Cloud Analytics,4,CUST145,69,True,Data Reconciliation Tool
+TKT1465,2023-07-21,Data Sync Problem,Data Manager,4,CUST401,13,True,Cloud Connector
+TKT1466,2023-08-23,Software Bug,Software Suite Pro,3,CUST207,33,True,Core Engine Update
+TKT1467,2023-06-05,Data Sync Problem,Mobile App,5,CUST169,41,True,Cloud Connector
+TKT1468,2023-11-28,Connectivity Issues,Mobile App,3,CUST238,18,True,Connection Optimizer
+TKT1469,2023-09-17,Software Bug,Cloud Analytics,4,CUST207,29,False,System Diagnostics Tool
+TKT1470,2023-12-02,Authentication Error,API Gateway,3,CUST346,8,True,Two-Factor Module
+TKT1471,2023-11-17,Data Sync Problem,Mobile App,4,CUST138,59,False,Data Reconciliation Tool
+TKT1472,2023-03-15,Data Sync Problem,Data Manager,3,CUST135,28,True,Cloud Connector
+TKT1473,2023-02-24,Software Bug,Cloud Analytics,4,CUST190,22,True,Bug Fix Patch v2.1
+TKT1474,2023-06-22,Performance Issues,Mobile App,2,CUST109,9,True,Load Balancer Pro
+TKT1475,2023-06-09,Installation Error,Software Suite Pro,2,CUST188,71,True,Installation Guide
+TKT1476,2023-04-09,Software Bug,Cloud Analytics,5,CUST212,17,True,Bug Fix Patch v2.1
+TKT1477,2023-11-20,Connectivity Issues,Mobile App,3,CUST213,1,True,Network Diagnostics
+TKT1478,2023-11-11,Compatibility Issue,API Gateway,3,CUST302,41,True,Version Manager
+TKT1479,2023-08-25,Compatibility Issue,Mobile App,3,CUST320,68,True,Bridge Module
+TKT1480,2023-03-17,Connectivity Issues,API Gateway,4,CUST381,19,True,Connection Optimizer
+TKT1481,2023-02-09,Installation Error,Software Suite Pro,3,CUST232,21,True,System Checker
+TKT1482,2023-04-26,Connectivity Issues,Mobile App,3,CUST208,8,True,Connection Optimizer
+TKT1483,2023-11-20,Connectivity Issues,Cloud Analytics,3,CUST477,15,False,Network Diagnostics
+TKT1484,2023-02-09,Performance Issues,Mobile App,4,CUST288,36,True,Resource Monitor
+TKT1485,2023-10-17,Performance Issues,Mobile App,4,CUST280,23,False,Load Balancer Pro
+TKT1486,2023-11-09,Software Bug,Cloud Analytics,3,CUST348,60,True,Bug Fix Patch v2.1
+TKT1487,2023-03-26,Authentication Error,API Gateway,3,CUST416,3,False,Security Patch
+TKT1488,2023-08-27,Authentication Error,Cloud Analytics,3,CUST268,69,True,Security Patch
+TKT1489,2023-01-25,Performance Issues,Data Manager,2,CUST211,27,True,Performance Optimizer
+TKT1490,2023-08-16,Performance Issues,API Gateway,4,CUST138,16,True,Performance Optimizer
+TKT1491,2023-10-14,Connectivity Issues,API Gateway,4,CUST301,32,True,Connection Optimizer
+TKT1492,2023-01-10,Connectivity Issues,API Gateway,4,CUST313,17,True,Firewall Config Tool
+TKT1493,2023-12-23,Authentication Error,API Gateway,3,CUST201,65,True,OAuth Handler
+TKT1494,2023-03-29,Performance Issues,Cloud Analytics,4,CUST293,15,True,Load Balancer Pro
+TKT1495,2023-06-16,Data Sync Problem,Mobile App,5,CUST225,57,True,Cloud Connector
+TKT1496,2023-03-11,Software Bug,Software Suite Pro,3,CUST361,52,True,Bug Fix Patch v2.1
+TKT1497,2023-07-02,Authentication Error,API Gateway,3,CUST291,65,True,Security Patch
+TKT1498,2023-12-05,Software Bug,API Gateway,4,CUST142,35,True,System Diagnostics Tool
+TKT1499,2023-09-04,Authentication Error,Cloud Analytics,3,CUST487,59,True,Security Patch
