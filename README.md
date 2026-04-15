@@ -1,8 +1,7 @@
 
 
-PROJECT SUMMARY
-**What It Does:**
-- Analyzes 500+ customer support tickets
+PROJECT SUMMARY:
+- Analyzes customer support tickets
 - Identifies patterns in technical issues
 - Recommends optimal solutions using collaborative filtering
 - Generates comprehensive visualizations and insights
@@ -51,7 +50,7 @@ For: Software Bug on Cloud Analytics (Severity 5/5)
 
 ---
 
-## 🎯 HOW THE RECOMMENDATION ENGINE WORKS
+## HOW THE RECOMMENDATION ENGINE WORKS
 
 ### Algorithm Overview
 
